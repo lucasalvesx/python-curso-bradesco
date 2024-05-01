@@ -1,0 +1,9 @@
+Funções são estruturas que possibilitam a separação da programação em blocos
+
+definimos as funções uma única vez e sempre que necessário podemos utilizá-las
+
+SINTAXE:
+
+def nome_da_função (parâmetros):
+<instruções>
+return “valor do retorno”
